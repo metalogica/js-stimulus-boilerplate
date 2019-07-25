@@ -8,11 +8,13 @@
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/preset-env": "^7.1.6",
     "babel-loader": "^8.0.4",
-    "webpack": "^2"
+    "webpack": "^4",
+    "webpack-cli": "^3.3.6"
   },
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "stimulus": "^1.1.1"
+    "stimulus": "^1.1.1",
+    "webpack-dev-server": "^3.7.2"
   }
 }
