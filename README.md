@@ -1,6 +1,6 @@
-##Get stimulated with stimulus!
+# Get stimulated with stimulus!
 
 Clone the repo.
 Run:
-  weback-dev-server...
+weback-dev-server...
 You got this.
